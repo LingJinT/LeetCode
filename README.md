@@ -2,7 +2,7 @@
 LeetCode刷题记录
 
 ## 数组
-### 1)二分查找
+### (1)二分查找
 [LeetCode](https://leetcode.cn/problems/binary-search/)
 ```ts
 function search(nums: number[], target: number): number {
